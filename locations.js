@@ -140,7 +140,7 @@ const locations = [
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/la-fortaleza",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Fortaleza_San_Juan_Puerto_Rico.jpg/640px-La_Fortaleza_San_Juan_Puerto_Rico.jpg",
+    "image": "https://images.unsplash.com/photo-1646041991070-c68900f36f86?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "region": "america"
   }
 ];
