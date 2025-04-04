@@ -12,7 +12,7 @@ const locations = [
   title: "Seville Cathedral, Alcázar and Archivo de Indias",
   description: "Seville’s mix of Islamic, Gothic, and Renaissance influences makes it a city where history is alive in every courtyard and cobbled street.",
   link: "https://moneyoffthebooks.com/seville-cathedral"
-}
+},
   {
     lat: -7.75222,
     lng: 110.49167,
