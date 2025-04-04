@@ -140,7 +140,7 @@ const locations = [
     title: "Seville Cathedral, Alcázar and Archivo de Indias",
     description: "Seville’s mix of Islamic, Gothic, and Renaissance influences makes it a city where history is alive in every courtyard and cobbled street.",
     link: "https://moneyoffthebooks.com/seville-cathedral",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sevilla_Catedral_Giralda.JPG/640px-Sevilla_Catedral_Giralda.JPG",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sevilla_Catedral_Giralda.JPG/640px-Sevilla_Catedral_Giralda.jpg",
     region: "europe"
   }
 ];
