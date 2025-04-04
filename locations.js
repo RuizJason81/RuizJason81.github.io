@@ -94,7 +94,7 @@ const locations = [
     lng: -3.59444,
     title: "Alhambra, Generalife and Albayzín, Granada",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    link: "https://moneyoffthebooks.com/alhambra-generalife-albayzin",
+    link: "https://moneyoffthebooks.com/alhambra-generalife",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alhambra_Night_Granada.jpg/640px-Alhambra_Night_Granada.jpg",
     region: "europe"
   },
