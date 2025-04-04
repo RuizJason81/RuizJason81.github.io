@@ -1,3 +1,4 @@
+alert("locations.js loaded");
 const locations = [
   {
     lat: 37.38311857298441,
