@@ -2,7 +2,7 @@ const locations = [
   {
     "lat": 37.38311857298441,
     "lng": -5.990224048237083,
-    "title": "Seville Cathedral, Alc\u00e1zar and Archivo de Indias",
+    "title": "Seville Cathedral, Alcázar and Archivo de Indias",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/seville-cathedral",
     "image": "https://images.unsplash.com/photo-1544378730-5c1b0a4c8f1e",
@@ -47,7 +47,7 @@ const locations = [
   {
     "lat": 51.49939,
     "lng": -0.127465,
-    "title": "Palace of Westminster and Westminster Abbey including Saint Margaret\u2019s Church",
+    "title": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/palace-of-westminster",
     "image": "https://images.unsplash.com/photo-1552127108-029e4ff1d9c2",
@@ -92,7 +92,7 @@ const locations = [
   {
     "lat": 41.4036,
     "lng": 2.1744,
-    "title": "Works of Antoni Gaud\u00ed",
+    "title": "Works of Antoni Gaudí",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/works",
     "image": "https://images.unsplash.com/photo-1614850592927-8d0db1f5db37",
@@ -101,7 +101,7 @@ const locations = [
   {
     "lat": 37.17667,
     "lng": -3.59444,
-    "title": "Alhambra, Generalife and Albayz\u00edn, Granada",
+    "title": "Alhambra, Generalife and Albayzín, Granada",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/alhambra",
     "image": "https://images.unsplash.com/photo-1603201667142-0637a958f31c",
