@@ -3,46 +3,130 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Leaflet Map with Marker Clustering</title>
+  <title>World Literary Map</title>
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 
   <style>
+    body {
+      margin: 0;
+      font-family: Georgia, serif;
+    }
     #map {
       height: 100vh;
       width: 100%;
     }
+    .search-container {
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      background: white;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.15);
+    }
+    .search-container input {
+      padding: 6px 10px;
+      font-size: 14px;
+      width: 250px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .filter-buttons {
+      position: absolute;
+      top: 60px;
+      left: 10px;
+      z-index: 1000;
+    }
+    .filter-buttons button {
+      display: block;
+      margin: 4px 0;
+      padding: 6px 12px;
+      border: none;
+      background: #1e73be;
+      color: white;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    @media (max-width: 700px) {
+      .search-container input {
+        width: 200px;
+      }
+    }
   </style>
 </head>
 <body>
-  <div id="map"></div>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-  <script src="locations.js"></script>
+<div class="search-container">
+  <input type="text" id="search" placeholder="Search for a location..." />
+</div>
 
-  <script>
-    const map = L.map('map').setView([37.3831, -5.9902], 13);
+<div class="filter-buttons">
+  <button onclick="filterMarkers('all')">Show All</button>
+  <button onclick="filterMarkers('europe')">Europe</button>
+  <button onclick="filterMarkers('asia')">Asia</button>
+  <button onclick="filterMarkers('america')">Americas</button>
+</div>
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
+<div id="map"></div>
 
-    const markers = L.markerClusterGroup();
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+<script src="locations.js"></script>
 
-    locations.forEach(loc => {
-      const marker = L.marker([loc.lat, loc.lng]);
-      marker.bindPopup(
-        "<h2>" + loc.title + "</h2>" +
-        "<p>" + loc.description + "</p>" +
-        "<a href='" + loc.link + "' target='_blank'>Read More</a>"
-      );
-      markers.addLayer(marker);
-    });
+<script>
+  const map = L.map('map').setView([20, 0], 2);
 
-    map.addLayer(markers);
-  </script>
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  const markerGroup = L.markerClusterGroup();
+  let allMarkers = [];
+
+  function createMarker(loc) {
+    const marker = L.marker([loc.lat, loc.lng]);
+    const img = loc.image ? `<img src="${loc.image}" style="width:100%; border-radius:8px; margin-bottom:8px;">` : '';
+    marker.bindPopup(`
+      <div style="max-width:300px;">
+        ${img}
+        <h3 style="margin:0;">${loc.title}</h3>
+        <p style="font-size: 14px;">${loc.description}</p>
+        <a href="${loc.link}" target="_blank" style="color:#1e73be; font-weight:bold;">Read More →</a>
+      </div>
+    `);
+    marker.featureType = loc.region || "all";
+    marker.title = loc.title.toLowerCase();
+    return marker;
+  }
+
+  locations.forEach(loc => {
+    const marker = createMarker(loc);
+    allMarkers.push(marker);
+    markerGroup.addLayer(marker);
+  });
+
+  map.addLayer(markerGroup);
+
+  // 🔍 Search functionality
+  document.getElementById("search").addEventListener("input", function(e) {
+    const val = e.target.value.toLowerCase();
+    markerGroup.clearLayers();
+    const filtered = allMarkers.filter(m => m.title.includes(val));
+    filtered.forEach(m => markerGroup.addLayer(m));
+  });
+
+  // 🧭 Filter by region
+  function filterMarkers(region) {
+    markerGroup.clearLayers();
+    const filtered = region === 'all' ? allMarkers : allMarkers.filter(m => m.featureType === region);
+    filtered.forEach(m => markerGroup.addLayer(m));
+  }
+</script>
+
 </body>
 </html>
