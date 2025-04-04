@@ -7,13 +7,6 @@ const locations = [
     link: "https://moneyoffthebooks.com/borobudur-temple"
   },
   {
-  lat: 37.38311857298441,
-  lng: -5.990224048237083,
-  title: "Seville Cathedral, Alcázar and Archivo de Indias",
-  description: "Seville’s mix of Islamic, Gothic, and Renaissance influences makes it a city where history is alive in every courtyard and cobbled street.",
-  link: "https://moneyoffthebooks.com/seville-cathedral"
-  },
-  {
     lat: -7.75222,
     lng: 110.49167,
     title: "Prambanan Temple Compounds",
@@ -110,5 +103,12 @@ const locations = [
     title: "La Fortaleza and San Juan National Historic Site in Puerto Rico",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "https://moneyoffthebooks.com/la-fortaleza"
+  },
+  {
+    lat: 37.38311857298441,
+    lng: -5.990224048237083,
+    title: "Seville Cathedral, Alcázar and Archivo de Indias",
+    description: "Seville’s mix of Islamic, Gothic, and Renaissance influences makes it a city where history is alive in every courtyard and cobbled street.",
+    link: "https://moneyoffthebooks.com/seville-cathedral"
   }
 ];
