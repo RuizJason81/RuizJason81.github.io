@@ -34,11 +34,11 @@
 
     locations.forEach(loc => {
       const marker = L.marker([loc.lat, loc.lng]);
-      marker.bindPopup(\`
-        <h2>\${loc.title}</h2>
-        <p>\${loc.description}</p>
-        <a href="\${loc.link}" target="_blank">Read More</a>
-      \`);
+      marker.bindPopup(
+        "<h2>" + loc.title + "</h2>" +
+        "<p>" + loc.description + "</p>" +
+        "<a href='" + loc.link + "' target='_blank'>Read More</a>"
+      );
       markers.addLayer(marker);
     });
 
