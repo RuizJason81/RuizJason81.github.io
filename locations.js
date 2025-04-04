@@ -5,7 +5,7 @@ const locations = [
     "title": "Seville Cathedral, Alc\u00e1zar and Archivo de Indias",
     "description": "Seville\u2019s mix of Islamic, Gothic, and Renaissance influences makes it a city where history is alive in every courtyard and cobbled street.",
     "link": "https://moneyoffthebooks.com/seville-cathedral",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/6/66/Sevilla_Catedral_Giralda.JPG/640px-Sevilla_Catedral_Giralda.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sevilla_Catedral_Giralda.JPG/640px-Sevilla_Catedral_Giralda.JPG",
     "region": "europe"
   },
   {
@@ -14,7 +14,7 @@ const locations = [
     "title": "Borobudur Temple Compounds",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/borobudur-temple",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borobudur_Nothwest_View.jpg/640px-Borobudur_Nothwest_View.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borobudur_Nothwest_View.jpg/640px-Borobudur_Nothwest_View.jpg",
     "region": "asia"
   },
   {
@@ -23,7 +23,7 @@ const locations = [
     "title": "Prambanan Temple Compounds",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/prambanan-temple",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/f/f9/Prambanan_Temple_view.jpg/640px-Prambanan_Temple_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Prambanan_Temple_view.jpg/640px-Prambanan_Temple_view.jpg",
     "region": "asia"
   },
   {
@@ -32,7 +32,7 @@ const locations = [
     "title": "Palace and Park of Versailles",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/palace-and",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/9/97/Versailles_Palace.jpg/640px-Versailles_Palace.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Versailles_Palace.jpg/640px-Versailles_Palace.jpg",
     "region": "europe"
   },
   {
@@ -41,7 +41,7 @@ const locations = [
     "title": "Tower of London",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/tower-of",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/7/77/Tower_of_London_viewed_from_the_River_Thames.jpg/640px-Tower_of_London_viewed_from_the_River_Thames.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tower_of_London_viewed_from_the_River_Thames.jpg/640px-Tower_of_London_viewed_from_the_River_Thames.jpg",
     "region": "europe"
   },
   {
@@ -50,7 +50,7 @@ const locations = [
     "title": "Palace of Westminster and Westminster Abbey including Saint Margaret\u2019s Church",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/palace-of",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/3/3b/Westminster_Abbey_West_Door.jpg/640px-Westminster_Abbey_West_Door.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Westminster_Abbey_West_Door.jpg/640px-Westminster_Abbey_West_Door.jpg",
     "region": "europe"
   },
   {
@@ -59,7 +59,7 @@ const locations = [
     "title": "Stonehenge, Avebury and Associated Sites",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/stonehenge-avebury",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/640px-Stonehenge2007_07_30.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/640px-Stonehenge2007_07_30.jpg",
     "region": "europe"
   },
   {
@@ -68,7 +68,7 @@ const locations = [
     "title": "Historic City of Toledo",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/historic-city",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/e/e9/Toledo-Spain.jpg/640px-Toledo-Spain.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Toledo-Spain.jpg/640px-Toledo-Spain.jpg",
     "region": "europe"
   },
   {
@@ -77,7 +77,7 @@ const locations = [
     "title": "Historic Centre of Cordoba",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/historic-centre",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/d/de/Cordoba-Mezquita.jpg/640px-Cordoba-Mezquita.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cordoba-Mezquita.jpg/640px-Cordoba-Mezquita.jpg",
     "region": "europe"
   },
   {
@@ -86,7 +86,7 @@ const locations = [
     "title": "Monastery and Site of the Escurial, Madrid",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/monastery-and",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/6/61/Monasterio_de_El_Escorial_desde_el_cielo.jpg/640px-Monasterio_de_El_Escorial_desde_el_cielo.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Monasterio_de_El_Escorial_desde_el_cielo.jpg/640px-Monasterio_de_El_Escorial_desde_el_cielo.jpg",
     "region": "europe"
   },
   {
@@ -95,7 +95,7 @@ const locations = [
     "title": "Works of Antoni Gaud\u00ed",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/works-of",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sagrada_Familia_01.jpg/640px-Sagrada_Familia_01.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sagrada_Familia_01.jpg/640px-Sagrada_Familia_01.jpg",
     "region": "europe"
   },
   {
@@ -104,7 +104,7 @@ const locations = [
     "title": "Alhambra, Generalife and Albayz\u00edn, Granada",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/alhambra-generalife",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alhambra_Night_Granada.jpg/640px-Alhambra_Night_Granada.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alhambra_Night_Granada.jpg/640px-Alhambra_Night_Granada.jpg",
     "region": "europe"
   },
   {
@@ -113,7 +113,7 @@ const locations = [
     "title": "Cologne Cathedral",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/cologne-cathedral",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/1/1c/K%25C3%25B6lner_Dom_abends.jpg/640px-K%25C3%25B6lner_Dom_abends.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/K%25C3%25B6lner_Dom_abends.jpg/640px-K%25C3%25B6lner_Dom_abends.jpg",
     "region": "europe"
   },
   {
@@ -122,7 +122,7 @@ const locations = [
     "title": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/the-cosmological",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tugu_Yogyakarta%252C_Sleman.jpg/640px-Tugu_Yogyakarta%252C_Sleman.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tugu_Yogyakarta%252C_Sleman.jpg/640px-Tugu_Yogyakarta%252C_Sleman.jpg",
     "region": "asia"
   },
   {
@@ -131,7 +131,7 @@ const locations = [
     "title": "San Antonio Missions",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/san-antonio",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/d/d4/San_Jose_Mission.jpg/640px-San_Jose_Mission.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/San_Jose_Mission.jpg/640px-San_Jose_Mission.jpg",
     "region": "america"
   },
   {
@@ -140,7 +140,7 @@ const locations = [
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/la-fortaleza",
-    "image": "https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dupload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Fortaleza_San_Juan_Puerto_Rico.jpg/640px-La_Fortaleza_San_Juan_Puerto_Rico.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Fortaleza_San_Juan_Puerto_Rico.jpg/640px-La_Fortaleza_San_Juan_Puerto_Rico.jpg",
     "region": "america"
   }
 ];
