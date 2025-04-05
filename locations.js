@@ -103,7 +103,7 @@
     "lng": -3.59444,
     "title": "Alhambra, Generalife and Albayzín, Granada",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/alhambra",
+    "link": "https://moneyoffthebooks.com/alhambra-generalife-albayzin",
     "image": "https://commons.wikimedia.org/wiki/File:Alhambra_I_(15381913145)_cropped.jpg",
     "region": "europe"
   },
