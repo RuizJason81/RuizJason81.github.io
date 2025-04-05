@@ -104,7 +104,7 @@
     "title": "Alhambra, Generalife and Albayzín, Granada",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/alhambra",
-    "image": "https://images.unsplash.com/photo-1603201667142-0637a958f31c",
+    "image": "https://commons.wikimedia.org/wiki/File:Alhambra_I_(15381913145)_cropped.jpg",
     "region": "europe"
   },
   {
