@@ -14,7 +14,7 @@
     "title": "Borobudur Temple Compounds",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/borobudur-temple-compounds",
-    "image": "https://images.unsplash.com/photo-1585829365295-79a6c8a654a7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/640px-Pradaksina.jpg",
     "region": "asia"
   },
   {
@@ -23,7 +23,7 @@
     "title": "Prambanan Temple Compounds",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/prambanan-temple-compounds",
-    "image": "https://images.unsplash.com/photo-1590490350341-f82a40d31870",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Prambanan_temple%2C_Central_Java%2C_Indonesia%2C_20220818_1311_9139.jpg/640px-Prambanan_temple%2C_Central_Java%2C_Indonesia%2C_20220818_1311_9139.jpg",
     "region": "asia"
   },
   {
@@ -32,7 +32,7 @@
     "title": "Palace and Park of Versailles",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/palace-and-park-of-versailles",
-    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2017_Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_P24.jpg/640px-2017_Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_P24.jpg",
     "region": "europe"
   },
   {
@@ -41,7 +41,7 @@
     "title": "Tower of London",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/tower-of-london",
-    "image": "https://images.unsplash.com/photo-1533643005820-2432b1c23102",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tower_of_London_viewed_from_the_River_Thames.jpg/640px-Tower_of_London_viewed_from_the_River_Thames.jpg",
     "region": "europe"
   },
   {
@@ -50,7 +50,7 @@
     "title": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/palace-of-westminster-and-westminster-abbey-including-saint-margarets-church",
-    "image": "https://images.unsplash.com/photo-1552127108-029e4ff1d9c2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palace_of_Westminster%2C_London_-_Feb_2007.jpg/640px-Palace_of_Westminster%2C_London_-_Feb_2007.jpg",
     "region": "europe"
   },
   {
@@ -59,7 +59,7 @@
     "title": "Stonehenge, Avebury and Associated Sites",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/stonehenge",
-    "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG/640px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG",
     "region": "europe"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Historic City of Toledo",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/historic-city-of-toledo",
-    "image": "https://images.unsplash.com/photo-1564869733286-0a27b5c4bba4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Puente_de_San_Mart%C3%ADn._Toledo%2C_Spain.jpg/640px-Puente_de_San_Mart%C3%ADn._Toledo%2C_Spain.jpg",
     "region": "europe"
   },
   {
@@ -77,7 +77,7 @@
     "title": "Historic Centre of Cordoba",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/historic-centre-of-cordoba",
-    "image": "https://images.unsplash.com/photo-1604840664974-dc54f27b94d5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Historic_centre_of_C%C3%B3rdoba_Part1_049.jpg/640px-Historic_centre_of_C%C3%B3rdoba_Part1_049.jpg",
     "region": "europe"
   },
   {
@@ -86,7 +86,7 @@
     "title": "Monastery and Site of the Escurial, Madrid",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/monastery-and-site-of-the-escurial",
-    "image": "https://images.unsplash.com/photo-1598430152295-e3fe5d007c15",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Monasterio_de_El_Escorial_01.jpg/640px-Monasterio_de_El_Escorial_01.jpg",
     "region": "europe"
   },
   {
@@ -95,7 +95,7 @@
     "title": "Works of Antoni Gaudí",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/works-of-antoni-gaudi",
-    "image": "https://images.unsplash.com/photo-1614850592927-8d0db1f5db37",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/UNESCO%2C_SPAIN-BARCELONA%2C_WORKS_OF_ANTONIO_GAUD%C3%8D%2C_PARK_G%C3%9CELL_-_panoramio.jpg/640px-UNESCO%2C_SPAIN-BARCELONA%2C_WORKS_OF_ANTONIO_GAUD%C3%8D%2C_PARK_G%C3%9CELL_-_panoramio.jpg",
     "region": "europe"
   },
   {
@@ -104,7 +104,7 @@
     "title": "Alhambra, Generalife and Albayzín, Granada",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/alhambra-generalife-albayzin",
-    "image": "https://commons.wikimedia.org/wiki/File:Alhambra_I_(15381913145)_cropped.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1_%28cropped%29.jpg/640px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1_%28cropped%29.jpg",
     "region": "europe"
   },
   {
@@ -113,7 +113,7 @@
     "title": "Cologne Cathedral",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/cologne-cathedral",
-    "image": "https://images.unsplash.com/photo-1620912189863-7c90e40edb15",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/K%C3%B6lner_Dom_von_Osten.jpg/640px-K%C3%B6lner_Dom_von_Osten.jpg",
     "region": "europe"
   },
   {
@@ -122,7 +122,7 @@
     "title": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/the-cosmological-axis-of-yogyakarta-and-its-historic-landmarks",
-    "image": "https://images.unsplash.com/photo-1631860305720-cc3c8d38b151",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prajurit_Kraton_Solo.jpg/640px-Prajurit_Kraton_Solo.jpg",
     "region": "asia"
   },
   {
@@ -131,7 +131,7 @@
     "title": "San Antonio Missions",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/san-antonio-missions",
-    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Main_entrance%2C_Mission_San_Jose%2C_San_Antonio_Texas.jpg/640px-Main_entrance%2C_Mission_San_Jose%2C_San_Antonio_Texas.jpg",
     "region": "america"
   },
   {
@@ -140,7 +140,7 @@
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/la-fortaleza-and-san-juan-national-historic-site-in-puerto-rico",
-    "image": "https://images.unsplash.com/photo-1613414264956-cf4b5c4e32c5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg/640px-Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg",
     "region": "america"
   }
 ]
