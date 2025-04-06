@@ -5,7 +5,7 @@
     "title": "Seville Cathedral, Alcázar and Archivo de Indias",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/seville-cathedral",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/640px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Plaza_Virgen_de_los_Reyes%2C_Seville%2C_Spain_-_Sep_2009.jpg/640px-Plaza_Virgen_de_los_Reyes%2C_Seville%2C_Spain_-_Sep_2009.jpg",
     "region": "europe"
   },
   {
