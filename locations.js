@@ -31,7 +31,7 @@
     "lng": 2.121782,
     "title": "Palace and Park of Versailles",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/palace-and-park-of-versailles",
+    "link": "https://moneyoffthebooks.com/palace-park-versailles",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2017_Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_P24.jpg/640px-2017_Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_P24.jpg",
     "region": "europe"
   },
