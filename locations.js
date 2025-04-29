@@ -58,7 +58,7 @@
     "lng": -1.8218,
     "title": "Stonehenge, Avebury and Associated Sites",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/stonehenge",
+    "link": "https://moneyoffthebooks.com/stonehenge-avebury",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG/640px-Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_18.JPG",
     "region": "europe"
   },
@@ -85,7 +85,7 @@
     "lng": -4.12583,
     "title": "Monastery and Site of the Escurial, Madrid",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/monastery-and-site-of-the-escurial",
+    "link": "https://moneyoffthebooks.com/monastery-escurial-madrid",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Monasterio_de_El_Escorial_01.jpg/640px-Monasterio_de_El_Escorial_01.jpg",
     "region": "europe"
   },
@@ -121,7 +121,7 @@
     "lng": 110.364778,
     "title": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/the-cosmological-axis-of-yogyakarta-and-its-historic-landmarks",
+    "link": "https://moneyoffthebooks.com/cosmological-axis-of-yogyakarta",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prajurit_Kraton_Solo.jpg/640px-Prajurit_Kraton_Solo.jpg",
     "region": "asia"
   },
@@ -139,7 +139,7 @@
     "lng": -66.125,
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/la-fortaleza-and-san-juan-national-historic-site-in-puerto-rico",
+    "link": "https://moneyoffthebooks.com/san-juan-national-historic-site",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg/640px-Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg",
     "region": "america"
   }
