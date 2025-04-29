@@ -49,7 +49,7 @@
     "lng": -0.127465,
     "title": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/palace-of-westminster-and-westminster-abbey-including-saint-margarets-church",
+    "link": "https://moneyoffthebooks.com/palace-of-westminster-abbey",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palace_of_Westminster%2C_London_-_Feb_2007.jpg/640px-Palace_of_Westminster%2C_London_-_Feb_2007.jpg",
     "region": "europe"
   },
