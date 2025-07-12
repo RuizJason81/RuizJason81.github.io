@@ -139,7 +139,7 @@
     "lng": -66.125,
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "link": "https://moneyoffthebooks.com/san-juan-national-historic-site",
+    "link": "https://moneyoffthebooks.com/la-fortaleza",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg/640px-Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg",
     "region": "america"
   }
