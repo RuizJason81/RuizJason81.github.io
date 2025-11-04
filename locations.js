@@ -138,7 +138,7 @@
     "lat": 18.466667,
     "lng": -66.125,
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
-    "description": "Once a key military stronghold of the Spanish Empire in the Caribbean, the San Juan National Historic Site—anchored by the imposing forts of El Morro and San Cristóbal—stood as a guardian of colonial ambition and maritime control. In the mid-19th century, as Puerto Rico faced political unrest and economic transformation, waves of settlers arrived seeking opportunity. This complex era sets the stage for Conquistadora by Esmeralda Santiago.",
+    "description": "A Spanish stronghold guarding the Caribbean, San Juan’s historic forts anchor the story of Conquistadora by Esmeralda Santiago, where ambition, upheaval, and identity collide.",
     "link": "https://moneyoffthebooks.com/la-fortaleza",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg/640px-Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg",
     "region": "america"
