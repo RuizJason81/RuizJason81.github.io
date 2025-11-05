@@ -43,21 +43,21 @@
     }
 
     @media (max-width: 700px) {
-  .leaflet-popup-content-wrapper {
-    max-width: 90vw !important;
-    max-height: 70vh !important;
-    overflow-y: auto !important;
-  }
+      .leaflet-popup-content-wrapper {
+        max-width: 90vw !important;
+        max-height: 70vh !important;
+        overflow-y: auto !important;
+      }
 
-  .leaflet-popup-content {
-    width: auto !important;
-    overflow-wrap: break-word;
-    font-size: 1em;
-    line-height: 1.5;
-    padding: 1em;
-  }
+      .leaflet-popup-content {
+        width: auto !important;
+        overflow-wrap: break-word;
+        font-size: 1em;
+        line-height: 1.5;
+        padding: 1em;
+      }
 
-  #controls {
+      #controls {
         flex-direction: column;
       }
     }
@@ -89,11 +89,10 @@
     const markerCluster = L.markerClusterGroup();
     const allMarkers = [];
 
-    fetch('https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/locations.js')
-      .then(res => res.text())
-      .then(js => {
-        const locations = eval(js);
-
+    // ✅ Load JSON instead of JS
+    fetch('locations.json')
+      .then(res => res.json())
+      .then(locations => {
         locations.forEach(loc => {
           const popupHTML = `
             <div style="max-width: 400px; font-family: Georgia, serif;">
@@ -104,25 +103,23 @@
             </div>
           `;
 
-          const marker = L.marker([loc.lat, loc.lng]);
-marker.bindPopup(popupHTML);
+          const marker = L.marker([loc.lat, loc.lng]).bindPopup(popupHTML);
 
-// Auto-pan popup upward on mobile/small screens
-marker.on('click', function (e) {
-  const screenWidth = window.innerWidth;
-  const offsetY = screenWidth < 768 ? -150 : -100;
+          // Auto-pan upward on small screens
+          marker.on('click', function () {
+            const screenWidth = window.innerWidth;
+            const offsetY = screenWidth < 768 ? -150 : -100;
 
-  map.setView(marker.getLatLng(), map.getZoom(), {
-    animate: true,
-    pan: {
-      duration: 0.5
-    }
-  });
+            map.setView(marker.getLatLng(), map.getZoom(), {
+              animate: true,
+              pan: { duration: 0.5 }
+            });
 
-  setTimeout(() => {
-    map.panBy([0, offsetY], { animate: true });
-  }, 300);
-});
+            setTimeout(() => {
+              map.panBy([0, offsetY], { animate: true });
+            }, 300);
+          });
+
           marker.region = loc.region;
           marker.title = loc.title;
           marker.description = loc.description;
