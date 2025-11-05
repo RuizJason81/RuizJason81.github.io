@@ -108,7 +108,7 @@
           // Auto-pan upward on small screens
           marker.on('click', function () {
             const screenWidth = window.innerWidth;
-            const offsetY = screenWidth < 768 ? -150 : -100;
+            const offsetY = screenWidth < 768 ? -220 : -180;
 
             map.setView(marker.getLatLng(), map.getZoom(), {
               animate: true,
