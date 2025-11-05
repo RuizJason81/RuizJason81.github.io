@@ -132,7 +132,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "https://moneyoffthebooks.com/san-antonio-missions",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Main_entrance%2C_Mission_San_Jose%2C_San_Antonio_Texas.jpg/640px-Main_entrance%2C_Mission_San_Jose%2C_San_Antonio_Texas.jpg",
-    "region": "america"
+    "region": "north america"
   },
   {
     "lat": 18.466667,
@@ -141,15 +141,15 @@
     "description": "A Spanish stronghold guarding the Caribbean, San Juan’s historic forts anchor the story of Conquistadora by Esmeralda Santiago, where ambition, upheaval, and identity collide.",
     "link": "https://moneyoffthebooks.com/la-fortaleza",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg/640px-Umbrella_street_Old_San_Juan_SJU_06_2019_8800.jpg",
-    "region": "america"
+    "region": "caribbean"
   }
   {
-    "lat": -12.046538754164809,
-    "lng": -77.02911799792267,
-    "title": "HHHHH Lima",
-    "description": "blah blah blah",
+    "lat": -12.045936,
+    "lng": -77.030527,
+    "title": "Historic Centre of Lima",
+    "description": "Dubbed the City of Kings, Lima’s historic centre blends colonial grandeur with living culture. Baroque churches and carved balconies line streets echo the timeless questions of fate and grace in The Bridge of San Luis Rey by Thornton Wilder.",
     "link": "https://moneyoffthebooks.com/historic-centre-of-lima",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lima_cath%C3%A9drale.jpg/640px-Lima_cath%C3%A9drale.jpg",
-    "region": "america"
+    "region": "south america"
   }
 ]
