@@ -43,9 +43,20 @@
     }
 
     @media (max-width: 700px) {
-      .leaflet-popup-content {
-        width: 90vw !important;
-      }
+  .leaflet-popup-content-wrapper {
+    max-width: 90vw !important;
+    max-height: 70vh !important;
+    overflow-y: auto !important;
+  }
+
+  .leaflet-popup-content {
+    width: auto !important;
+    overflow-wrap: break-word;
+    font-size: 1em;
+    line-height: 1.5;
+    padding: 1em;
+  }
+
       #controls {
         flex-direction: column;
       }
@@ -93,7 +104,25 @@
             </div>
           `;
 
-          const marker = L.marker([loc.lat, loc.lng]).bindPopup(popupHTML);
+          const marker = L.marker([loc.lat, loc.lng]);
+marker.bindPopup(popupHTML);
+
+// Auto-pan popup upward on mobile/small screens
+marker.on('click', function (e) {
+  const screenWidth = window.innerWidth;
+  const offsetY = screenWidth < 768 ? -150 : -100;
+
+  map.setView(marker.getLatLng(), map.getZoom(), {
+    animate: true,
+    pan: {
+      duration: 0.5
+    }
+  });
+
+  setTimeout(() => {
+    map.panBy([0, offsetY], { animate: true });
+  }, 300);
+});
           marker.region = loc.region;
           marker.title = loc.title;
           marker.description = loc.description;
