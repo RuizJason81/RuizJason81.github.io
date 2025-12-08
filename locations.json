@@ -147,9 +147,18 @@
     "lat": -12.045936,
     "lng": -77.030527,
     "title": "Historic Centre of Lima",
-    "description": "Called the City of Kings, Lima’s historic centre blends colonial grandeur with living culture. Baroque churches and carved balconies line streets echo the timeless questions of fate and grace in The Bridge of San Luis Rey by Thornton Wilder.",
+    "description": "Called the City of Kings, Lima’s historic centre blends colonial grandeur with living culture. Baroque churches and carved balconies line streets.",
     "link": "https://moneyoffthebooks.com/historic-centre-of-lima",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lima_cath%C3%A9drale.jpg/640px-Lima_cath%C3%A9drale.jpg",
+    "region": "south america"
+  },
+  {
+    "lat": -13.516555,
+    "lng": -71.979056,
+    "title": "City of Cusco",
+    "description": "Cusco sits high in the Andes. Once the capital of the Inca Empire, Cusco was laid out in the shape of a sacred puma, blending cosmology, imperial authority, and ritual space.",
+    "link": "https://moneyoffthebooks.com/city-of-cusco",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Plaza_de_armas_Cusco.jpg/640px-Plaza_de_armas_Cusco.jpg",
     "region": "south america"
   },
   {
