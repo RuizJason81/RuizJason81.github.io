@@ -3,7 +3,7 @@
     "lat": 37.38311857298441,
     "lng": -5.990224048237083,
     "title": "Seville Cathedral, Alcázar and Archivo de Indias",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Built on the site of a former mosque, Seville’s cathedral became one of the largest in the world, while the Alcázar reflects centuries of Islamic and Christian rule. Nearby, the Archivo de Indias preserves Spain’s vast colonial records.",
     "link": "https://moneyoffthebooks.com/seville-cathedral",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Seville%20Alcazar%20(wikicommons).jpg",
     "region": "europe"
@@ -12,7 +12,7 @@
     "lat": -7.607355,
     "lng": 110.203804,
     "title": "Borobudur Temple Compounds",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "This 9th-century Buddhist monument rises in terraced layers, guiding pilgrims from earthly life to enlightenment. Its thousands of relief panels and stupas form one of the world’s largest and most intricate sacred structures.",
     "link": "https://moneyoffthebooks.com/borobudur-temple-compounds",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Borobudur%20(wikicommons).jpg",
     "region": "asia"
@@ -21,7 +21,7 @@
     "lat": -7.75222,
     "lng": 110.49167,
     "title": "Prambanan Temple Compounds",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "A towering complex of Hindu temples from the 9th century, Prambanan honors the Trimurti—Brahma, Vishnu, and Shiva. Its soaring spires and detailed carvings tell epic stories from ancient Sanskrit texts.",
     "link": "https://moneyoffthebooks.com/prambanan-temple-compounds",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Prambanan%20temple%2C%20Central%20Java%2C%20Indonesia_wikicommons.jpg",
     "region": "asia"
@@ -30,7 +30,7 @@
     "lat": 48.804722,
     "lng": 2.121782,
     "title": "Palace and Park of Versailles",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Once a modest hunting lodge, Versailles became the grand symbol of absolute monarchy under Louis XIV. Its lavish halls and perfectly ordered gardens reflect the power and ambition of the French crown.",
     "link": "https://moneyoffthebooks.com/palace-park-versailles",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Palace%20of%20Versailles_Royal%20Chapel%20(wiki%20commons).jpg",
     "region": "europe"
@@ -39,7 +39,7 @@
     "lat": 51.50853,
     "lng": -0.076132,
     "title": "Tower of London",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Founded by William the Conqueror, this fortress has served as a royal palace, prison, and treasury. Its walls hold stories of intrigue, execution, and the safeguarding of the Crown Jewels.",
     "link": "https://moneyoffthebooks.com/tower-of-london",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Tower%20of%20London%20(wikicommons).jpg",
     "region": "europe"
@@ -48,7 +48,7 @@
     "lat": 51.49939,
     "lng": -0.127465,
     "title": "Palace of Westminster and Westminster Abbey including Saint Margaret's Church",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "At the heart of British politics and tradition, this site has witnessed royal coronations, state ceremonies, and centuries of governance along the Thames.",
     "link": "https://moneyoffthebooks.com/palace-of-westminster-abbey",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Palace%20of%20Westminster%20%26%20Westminster%20Abbey%20(wikicommons).jpg",
     "region": "europe"
@@ -57,7 +57,7 @@
     "lat": 51.174,
     "lng": -1.8218,
     "title": "Stonehenge, Avebury and Associated Sites",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Massive stone circles erected over 4,000 years ago still puzzle historians. Aligned with the sun’s movements, these sites hint at ancient ritual, astronomy, and community life.",
     "link": "https://moneyoffthebooks.com/stonehenge-avebury",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Stonehenge%20and%20Avebury%20wikicommons.jpg",
     "region": "europe"
@@ -66,7 +66,7 @@
     "lat": 39.8628,
     "lng": -4.0273,
     "title": "Historic City of Toledo",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Once a crossroads of Christian, Muslim, and Jewish cultures, Toledo flourished as a center of learning and craftsmanship. Its winding streets reflect centuries of layered history.",
     "link": "https://moneyoffthebooks.com/historic-city-of-toledo",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Toledo%20Espa%C3%B1a%20panorama%20(wikicommons).jpg",
     "region": "europe"
@@ -75,7 +75,7 @@
     "lat": 37.8916,
     "lng": -4.7739,
     "title": "Historic Centre of Cordoba",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Home to the Great Mosque, Córdoba was a leading city of the Islamic world in medieval Europe. Its architecture blends Islamic design with later Christian influences.",
     "link": "https://moneyoffthebooks.com/historic-centre-of-cordoba",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Mosque%20of%20Cordoba%20Spain%20(wikicommons).jpg",
     "region": "europe"
@@ -84,7 +84,7 @@
     "lat": 40.58167,
     "lng": -4.12583,
     "title": "Monastery and Site of the Escurial, Madrid",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Built by King Philip II, El Escorial served as a royal palace, monastery, and burial site. Its austere design reflects Spain’s power during its imperial peak.",
     "link": "https://moneyoffthebooks.com/monastery-escurial-madrid",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Monastery%20and%20Site%20of%20the%20Escurial%2C%20Madrid%20(wikicommons).jpg",
     "region": "europe"
@@ -93,7 +93,7 @@
     "lat": 41.4036,
     "lng": 2.1744,
     "title": "Works of Antoni Gaudí",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Gaudí’s imaginative architecture transforms Barcelona with flowing shapes, vivid colors, and nature-inspired forms, redefining the boundaries of design and engineering.",
     "link": "https://moneyoffthebooks.com/works-of-antoni-gaudi",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Sagrada_Familia_wikicommons.jpg",
     "region": "europe"
@@ -102,7 +102,7 @@
     "lat": 37.17667,
     "lng": -3.59444,
     "title": "Alhambra, Generalife and Albayzín, Granada",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "A masterpiece of Islamic art, the Alhambra’s palaces and gardens overlook Granada, while the Albayzín preserves the city’s Moorish past through its narrow, winding streets.",
     "link": "https://moneyoffthebooks.com/alhambra-generalife-albayzin",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Granada%20Alhambra%20wikicommons.jpg",
     "region": "europe"
@@ -111,7 +111,7 @@
     "lat": 50.941357,
     "lng": 6.958307,
     "title": "Cologne Cathedral",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Construction began in 1248 and took over 600 years to complete. Its towering Gothic design dominates the skyline and houses relics that drew medieval pilgrims.",
     "link": "https://moneyoffthebooks.com/cologne-cathedral",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Cologne%20Cathedral%20and%20the%20Hohenzollern%20Bridge_wikicommons.jpg",
     "region": "europe"
@@ -120,7 +120,7 @@
     "lat": -7.801389,
     "lng": 110.364778,
     "title": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "This sacred alignment links the volcano, royal palace, and sea, reflecting Javanese beliefs about harmony between humans, nature, and the spiritual world.",
     "link": "https://moneyoffthebooks.com/cosmological-axis-of-yogyakarta",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Kraton%2C%20Yogyakarta_wikicommons.jpg",
     "region": "asia"
@@ -138,7 +138,7 @@
     "lat": 18.466667,
     "lng": -66.125,
     "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
-    "description": "A Spanish stronghold guarding the Caribbean, San Juan's historic forts anchor the story of Conquistadora by Esmeralda Santiago, where ambition, upheaval, and identity collide.",
+    "description": "Massive stone fortifications guarded one of Spain’s key Caribbean ports, protecting trade routes and empire. Their walls tell stories of invasion, resilience, and colonial power.",
     "link": "https://moneyoffthebooks.com/la-fortaleza",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Viejo%20San%20Juan%2C%20PR%20-%20El%20Morro%20(wikicommons).jpg",
     "region": "caribbean"
@@ -147,7 +147,7 @@
     "lat": -12.045936,
     "lng": -77.030527,
     "title": "Historic Centre of Lima",
-    "description": "Called the City of Kings, Lima's historic centre blends colonial grandeur with living culture. Baroque churches and carved balconies line streets.",
+    "description": "Called the City of Kings, Lima's historic centre blends colonial grandeur with living culture. Founded by Spanish conquistadors, Lima became the capital of colonial South America.",
     "link": "https://moneyoffthebooks.com/historic-centre-of-lima",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Lima%2C%20Peru%20-%20Plaza%20de%20Armas_wikicommons.jpg",
     "region": "south america"
@@ -156,7 +156,7 @@
     "lat": -13.516555,
     "lng": -71.979056,
     "title": "City of Cusco",
-    "description": "Cusco sits high in the Andes. Once the capital of the Inca Empire, Cusco was laid out in the shape of a sacred puma, blending cosmology, imperial authority, and ritual space.",
+    "description": "Cusco sits high in the Andes. Once the capital of the Inca Empire, Cusco blends precisely cut Inca stonework with Spanish colonial architecture.",
     "link": "https://moneyoffthebooks.com/city-of-cusco",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Cusco%20Peru_wikicommons.jpg",
     "region": "south america"
@@ -165,7 +165,7 @@
     "lat": 48.863611,
     "lng": 2.313272,
     "title": "Paris, Banks of the Seine",
-    "description": "From Notre-Dame to the Louvre, its bridges and quays frame centuries of art, revolution, and romance. The very spirit is captured in Victor Hugo's The Hunchback of Notre-Dame.",
+    "description": "Flowing through the heart of Paris, the Seine links landmarks that have witnessed revolution, artistic movements, and the evolution of one of the world’s most influential cities.",
     "link": "https://moneyoffthebooks.com/paris-banks-of-the-seine",
     "image": "https://raw.githubusercontent.com/RuizJason81/RuizJason81.github.io/main/images/Paris%20-%20View%20of%20River%20Seine%20from%20top%20of%20Eifel%20Tower_wikicommons.jpg",
     "region": "europe"
